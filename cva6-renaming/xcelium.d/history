@@ -1,0 +1,10 @@
+//
+// File created by:  xrun
+// Do not modify this file
+
+s1::(16May2024:20:29:14):( xrun -gui -access +rwc -sv core/include/ariane_dm_pkg.sv )
+s2::(16May2024:20:30:21):( xrun -gui -access +rwc -sv core/include/ariane_dm_pkg.sv core/include/cv32a6_imac_sv0_config_pkg.sv core/include/riscv_pkg.sv core/include/ariane_pkg.sv core/renaming_map.sv ./testbenches/simple_tb.sv )
+s3::(16May2024:20:31:08):( xrun -gui -access +rwc -sv core/include/ariane_dm_pkg.sv core/include/cv32a6_imac_sv0_config_pkg.sv core/include/riscv_pkg.sv core/include/ariane_pkg.sv core/renaming_map.sv ./testbenches/simple_tb.sv )
+s4::(16May2024:20:31:38):( xrun -gui -access +rwc -sv core/include/ariane_dm_pkg.sv core/include/cv32a6_imac_sv0_config_pkg.sv core/include/riscv_pkg.sv core/include/ariane_pkg.sv core/renaming_map.sv ./testbenches/simple_tb.sv )
+s5::(16May2024:20:55:52):( xrun -gui -access +rwc -sv core/include/ariane_dm_pkg.sv core/include/cv32a6_imac_sv0_config_pkg.sv core/include/riscv_pkg.sv core/include/ariane_pkg.sv core/renaming_map.sv ./testbenches/simple_tb.sv )
+s6::(16May2024:20:58:52):( xrun -gui -access +rwc -sv core/include/ariane_dm_pkg.sv core/include/cv32a6_imac_sv0_config_pkg.sv core/include/riscv_pkg.sv core/include/ariane_pkg.sv core/renaming_map.sv ./testbenches/simple_tb.sv )

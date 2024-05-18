@@ -1,0 +1,24 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-XLMODE
+./xcelium.d/run.lnx8664.23.03.d
+-RUNMODE
+-sv
+core/include/ariane_dm_pkg.sv
+core/include/cv32a6_imac_sv0_config_pkg.sv
+core/include/riscv_pkg.sv
+core/include/ariane_pkg.sv
+core/renaming_map.sv
+./testbenches/simple_tb.sv
+-CDSLIB
+./xcelium.d/run.lnx8664.23.03.d/cdsrun.lib
+-HDLVAR
+./xcelium.d/run.lnx8664.23.03.d/hdlrun.var
+-no_analogsolver
+-MESSAGES
+-UPDATE
+-XLLIBSTORE
+./xcelium.d/run.lnx8664.23.03.d/xllibs
+-ALLOWUNBOUND

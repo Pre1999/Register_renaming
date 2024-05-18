@@ -1,0 +1,2 @@
+SOFTINCLUDE /cad/cadence/XCELIUMMAIN_23.03.012_lnx86/tools/inca/files/cds.lib
+define worklib ../worklib

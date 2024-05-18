@@ -1,0 +1,14 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-gui
+-access
++rwc
+-sv
+core/include/ariane_dm_pkg.sv
+core/include/cv32a6_imac_sv0_config_pkg.sv
+core/include/riscv_pkg.sv
+core/include/ariane_pkg.sv
+core/renaming_map.sv
+./testbenches/simple_tb.sv
